@@ -50,7 +50,7 @@ The screenshot from the result of the code is shown below;
 
 ![Dec temp](https://user-images.githubusercontent.com/81701640/122141988-7d358e00-ce1c-11eb-8c85-4ede8fa6eb4e.PNG)
 
-### Project Summary
+## Project Summary
 
 From the above results, we can deduce that the surf and ice cream shop business is sustainable year-round. 
 
